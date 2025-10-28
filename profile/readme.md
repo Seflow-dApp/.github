@@ -657,8 +657,8 @@ Seflow represents the next evolution of professional financial management, combi
 
 **Contact Information:**
 - GitHub: [https://github.com/Seflow-dApp](https://github.com/Seflow-dApp)
-- Email: team@seflow.app
-- Demo: [https://seflow.app](https://seflow.app)
+- Email: ramadhani@myself.com
+- Demo: [https://seflow.vercel.app](https://seflow.vercel.app)
 
 **Response Commitment**: < 12 hours for hackathon judges and Flow team
 
