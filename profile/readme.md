@@ -208,7 +208,7 @@ Flow blockchain was selected as the optimal foundation for Seflow based on compr
 **Persona**: Sarah Chen, 32, Senior Software Engineer, San Francisco
 
 ```
-PHASE 1: Account Setup (2 minutes)
+PHASE 1: Account Setup (3 minutes)
 ├─ Connect Flow wallet (Blocto/Dapper)
 ├─ Set monthly salary amount ($8,000)
 ├─ Configure allocation percentages:
@@ -234,7 +234,7 @@ PHASE 3: Yield Optimization (Ongoing)
 └─ Quarterly strategy optimization recommendations
 ```
 
-**Total Setup Time**: ~2 minutes
+**Total Setup Time**: ~3 minutes
 **Monthly Management Time**: ~0 minutes (fully automated)
 **Expected Yield Enhancement**: 10-15x over traditional savings
 
